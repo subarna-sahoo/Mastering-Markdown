@@ -21,7 +21,7 @@ Foo
 
 To run the following command, click the copy button on the right side of the code snippet and paste it into your terminal:
 
-```sh
+$ ```sh
 gh repo view leancodepl/patrol
 ```
 
